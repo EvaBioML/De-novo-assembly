@@ -1,0 +1,22 @@
+Number of gene,b_level,a_level
+67,Protein families: signaling and cellular processes,Brite Hierarchies
+65,Protein families: genetic information processing,Brite Hierarchies
+1,Protein families: metabolism,Brite Hierarchies
+2,Cell growth and death,Cellular Proesses
+3,Transport and catabolism,Cellular Proesses
+90,Cell motility,Cellular Proesses
+3,Signal transduction,Environmental Information Proessing
+6,Signaling molecules and interaction,Environmental Information Proessing
+6,Translation,Geneti Information Proessing
+98,"Folding, sorting and degradation",Geneti Information Proessing
+7,Cancer: overview,Human Diseases
+108,Infectious disease: bacterial,Human Diseases
+9,Endocrine and metabolic disease,Human Diseases
+10,Cardiovascular disease,Human Diseases
+10,Lipid metabolism,Metaolism
+12,Carbohydrate metabolism,Metaolism
+12,Metabolism of cofactors and vitamins,Metaolism
+16,Energy metabolism,Metaolism
+24,Immune system,Organismal Systems
+24,Nervous system,Organismal Systems
+26,Endocrine system,Organismal Systems

@@ -1,0 +1,61 @@
+Category,Pathway,Number of Genes
+Biological process ,response to stimulus ,12767
+Biological process ,regulation of cellular process ,11772
+Biological process ,regulation of biological process ,8818
+Biological process ,primary metabolic process ,7709
+Biological process ,positive regulation of biological process ,7508
+Biological process ,organic substance metabolic process ,7445
+Biological process ,nitrogen compound metabolic process ,6900
+Biological process ,multicellular organismal process ,6848
+Biological process ,multicellular organism development ,6457
+Biological process ,metabolic process ,6457
+Biological process ,macromolecule metabolic process ,6058
+Biological process ,localization ,5970
+Biological process ,developmental process ,5691
+Biological process ,cellular process ,5664
+Biological process ,cellular metabolic process ,5537
+Biological process ,cellular component organization or biogenesis ,5125
+Biological process ,cellular component organization ,5036
+Biological process ,biological_process ,4936
+Biological process ,biological regulation ,4820
+Biological process ,anatomical structure development ,4799
+Cellular component,plasma membrane,4559
+Cellular component,organelle ,4496
+Cellular component,obsolete organelle part ,4414
+Cellular component,obsolete intracellular part ,4203
+Cellular component,obsolete intracellular organelle part ,4113
+Cellular component,obsolete cytoplasmic part ,3993
+Cellular component,obsolete cell part ,3980
+Cellular component,obsolete cell ,3938
+Cellular component,nucleus,3855
+Cellular component,nucleoplasm,3842
+Cellular component,membrane-bounded organelle ,3767
+Cellular component,membrane,3701
+Cellular component,intracellular organelle ,3653
+Cellular component,intracellular membrane-bounded organelle ,3638
+Cellular component,intracellular anatomical structure ,3601
+Cellular component,extracellular region,3497
+Cellular component,cytosol,3484
+Cellular component,cytoplasm ,3479
+Cellular component,cytoplasm,3415
+Cellular component,cellular_component ,3290
+Molecular function,zinc ion binding,3273
+Molecular function,transferase activity ,3203
+Molecular function,RNA binding,3169
+Molecular function,protein homodimerization activity,3076
+Molecular function,protein binding ,2958
+Molecular function,organic cyclic compound binding ,2933
+Molecular function,molecular_function ,2740
+Molecular function,metal ion binding,2689
+Molecular function,ion binding ,2681
+Molecular function,identical protein binding,2531
+Molecular function,hydrolase activity ,2411
+Molecular function,heterocyclic compound binding ,1959
+Molecular function,GTP binding,1522
+Molecular function,enzyme binding ,1380
+Molecular function,DNA binding,1372
+Molecular function,catalytic activity ,1356
+Molecular function,calcium ion binding,1333
+Molecular function,binding ,1295
+Molecular function,ATP hydrolysis activity,1208
+Molecular function,ATP binding,1122
